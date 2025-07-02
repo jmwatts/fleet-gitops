@@ -1,0 +1,6 @@
+hash_sha256:: 8514e981b070c67ffe34cecaacc94bd87486fd797ff46220ea85ef6205357add
+# Mozilla Firefox 135.0.1 x64 en-US (Firefox_20Setup_20135.0.1.msi) version 135.0.1.0
+install_script:
+  path: ../lib/no-team/scripts/mozilla-firefox-13501-x64-enus-windows-install
+uninstall_script:
+  path: ../lib/no-team/scripts/mozilla-firefox-13501-x64-enus-windows-uninstall
