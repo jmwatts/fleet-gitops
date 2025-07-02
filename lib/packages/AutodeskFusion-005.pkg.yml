@@ -1,0 +1,6 @@
+hash_sha256:: 1ec3b61bf8cc0e2d71f3845215b8c59ac141eb05c3a93fea218c898eff299a81
+# Autodesk Fusion.app (AutodeskFusion-005.pkg) version 2602.1.25
+install_script:
+  path: ../lib/no-team/scripts/autodesk-fusionapp-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/autodesk-fusionapp-darwin-uninstall
