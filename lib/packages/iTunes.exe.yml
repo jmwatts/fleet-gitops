@@ -1,0 +1,6 @@
+hash_sha256:: 2f5a7f4a85e24810297cb3ef63fd6d743df1c62edfc5e4ca3677c7b083bc2ff0
+# iTunes (iTunes.exe) version 12.13.7.1
+install_script:
+  path: ../lib/no-team/scripts/itunes-windows-install
+uninstall_script:
+  path: ../lib/no-team/scripts/itunes-windows-uninstall
