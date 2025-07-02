@@ -1,0 +1,6 @@
+# Microsoft Word (MSWord2016-16.16.20101200.pkg) version 16.16.27
+hash_sha256:: f0ecd2f4defad527abf823ae4fa6c2fefe0d30e20d2e44a615077ccc36d42886
+install_script:
+  path: ../lib/no-team/scripts/microsoft-word-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/microsoft-word-darwin-uninstall
