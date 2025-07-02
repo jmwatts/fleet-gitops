@@ -1,0 +1,6 @@
+hash_sha256:: 4960f7cad5f509d8e13d3c290f880ec49488b52a62de317102c50526c1d5711b
+# MeisterTask.app (MeisterTask-3.0.10.pkg) version 3.0.10
+install_script:
+  path: ../lib/no-team/scripts/meistertaskapp-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/meistertaskapp-darwin-uninstall
