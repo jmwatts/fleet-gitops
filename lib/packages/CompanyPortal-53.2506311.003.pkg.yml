@@ -1,0 +1,6 @@
+hash_sha256:: bd14df3b7a5dc2b24a86b5d988eb433103ecaae16e5e4ed211048fe04186c588
+# Company Portal (CompanyPortal-53.2506311.003.pkg) version 5.2504.2
+install_script:
+  path: ../lib/no-team/scripts/company-portal-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/company-portal-darwin-uninstall
