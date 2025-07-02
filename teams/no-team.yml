@@ -9,24 +9,9 @@ policies:
 controls:
 software:
   packages:
-  - hash_sha256: 3e66ea2dd587a29023a14af203f08e2b46a0b08aa858597e7f5216bbc7895aeb
-      # Google Chrome (GoogleChrome.pkg) version 133.0.6943.127
-    install_script:
-      path: ../lib/no-team/scripts/google-chrome-darwin-install
-    uninstall_script:
-      path: ../lib/no-team/scripts/google-chrome-darwin-uninstall
-  - hash_sha256: c816a6c258b37a8b4a50535a87cb35e647a474beeb767334e27959c5adcbf298
-      # Mozilla Firefox (Firefox-135.0.1.pkg) version 135.0.1
-    install_script:
-      path: ../lib/no-team/scripts/mozilla-firefox-darwin-install
-    uninstall_script:
-      path: ../lib/no-team/scripts/mozilla-firefox-darwin-uninstall
-  - hash_sha256: d60d6ef3933e075568552666a79b7b12cc4f7c987167c0d977abac3445fec44e
-      # Slack (Slack-Universal.pkg) version 4.44.65
-    install_script:
-      path: ../lib/no-team/scripts/slack-darwin-install
-    uninstall_script:
-      path: ../lib/no-team/scripts/slack-darwin-uninstall
+  - path: ../lib/packages/GoogleChrome.pkg.yml
+  - path: ../lib/packages/Firefox-135.0.1.pkg.yml
+  - path: ../lib/packages/Slack-Universal.pkg.yml
   - hash_sha256: e38326a58163b268a69adfd1bfae492d4a5a3266c587767c82d68db378699d51
       # 1Password (1Password.pkg) version 8.10.82
     install_script:
