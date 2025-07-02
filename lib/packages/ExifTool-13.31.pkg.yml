@@ -1,0 +1,6 @@
+hash_sha256:: eef46f04b04d251fa4e451425ee5de770119bdb2ccecc616932f35b7009e3ea8
+# exiftool (ExifTool-13.31.pkg) version 13.31
+install_script:
+  path: ../lib/no-team/scripts/exiftool-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/exiftool-darwin-uninstall
