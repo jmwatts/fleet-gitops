@@ -1,0 +1,6 @@
+hash_sha256:: 3bb928bd9d8b0f2463411f4cac74ae782aaa5efbf9f9e8386d76ee159ad54dcf
+# NordLocker (NordLocker.pkg) version 4.10.0
+install_script:
+  path: ../lib/no-team/scripts/nordlocker-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/nordlocker-darwin-uninstall
