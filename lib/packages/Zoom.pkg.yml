@@ -1,0 +1,6 @@
+# Zoom (Zoom.pkg) version 6.5.1.58208
+hash_sha256:: d7cf25bf190330731ffd2e63aa380ce265207929a3c4eca427aca72b4224eb41
+install_script:
+  path: ../lib/no-team/scripts/zoom-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/zoom-darwin-uninstall
