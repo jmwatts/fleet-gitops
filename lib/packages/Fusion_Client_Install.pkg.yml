@@ -1,0 +1,6 @@
+hash_sha256:: 63432b6214fb1dbf9df4f4f237147e396cd277679d19e7b7e39610b5b3a726c3
+# massdeploy (Fusion_Client_Install.pkg) version 1.0
+install_script:
+  path: ../lib/no-team/scripts/massdeploy-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/massdeploy-darwin-uninstall
