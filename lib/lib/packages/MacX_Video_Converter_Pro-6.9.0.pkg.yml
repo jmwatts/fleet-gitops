@@ -1,0 +1,6 @@
+hash_sha256:: d26becdcd1b1b493265278bacd9bcf0b64f601bbdfe3c2f7420d4527132835ea
+# MacX Video Converter Pro.app (MacX Video Converter Pro-6.9.0.pkg) version 6.9.0
+install_script:
+  path: ../lib/no-team/scripts/macx-video-converter-proapp-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/macx-video-converter-proapp-darwin-uninstall
