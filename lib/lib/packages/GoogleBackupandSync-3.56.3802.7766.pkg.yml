@@ -1,0 +1,6 @@
+hash_sha256:: 63ca164797bec96ffcad3c71349d395773a7ec21482f81d7699219857093b67a
+# Backup and Sync.app (GoogleBackupandSync-3.56.3802.7766.pkg) version 3.56
+install_script:
+  path: ../lib/no-team/scripts/backup-and-syncapp-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/backup-and-syncapp-darwin-uninstall

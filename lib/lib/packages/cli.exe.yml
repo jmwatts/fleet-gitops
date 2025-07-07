@@ -1,0 +1,6 @@
+hash_sha256:: 75f12ea2f30d9c0d872dade345f30f562e6d93847b6a509ba53beec6d0b2c346
+# cli.exe (cli.exe) version 
+install_script:
+  path: ../lib/no-team/scripts/cliexe-windows-install
+uninstall_script:
+  path: ../lib/no-team/scripts/cliexe-windows-uninstall

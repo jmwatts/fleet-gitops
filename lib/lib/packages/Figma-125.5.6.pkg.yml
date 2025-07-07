@@ -1,0 +1,6 @@
+# Figma (Figma-125.5.6.pkg) version 125.5.6
+hash_sha256:: 8437f9a61043e3520f2c418d04562be7022a68a54324b946b43be4a4acca0f5a
+install_script:
+  path: ../lib/no-team/scripts/figma-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/figma-darwin-uninstall

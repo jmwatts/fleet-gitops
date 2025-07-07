@@ -1,0 +1,6 @@
+hash_sha256:: 69828c857d4824b9f850b1e0597d2c134c91114b7a0774c41dffe33b0eb23721
+# gui-64.exe (gui-64.exe) version 
+install_script:
+  path: ../lib/no-team/scripts/gui64exe-windows-install
+uninstall_script:
+  path: ../lib/no-team/scripts/gui64exe-windows-uninstall

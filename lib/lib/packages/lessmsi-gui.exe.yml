@@ -1,0 +1,6 @@
+hash_sha256:: 2ddba07c557673b851595729e14d1bb8d0fdc285509839bf39ac2d9d3a898029
+# Less MSIérables (lessmsi) (lessmsi-gui.exe) version 1.3
+install_script:
+  path: ../lib/no-team/scripts/less-msierables-lessmsi-windows-install
+uninstall_script:
+  path: ../lib/no-team/scripts/less-msierables-lessmsi-windows-uninstall

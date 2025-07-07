@@ -1,0 +1,6 @@
+hash_sha256:: 2dc84672d6b63e3c473f4fd24a548fa3a450b5719e45a28f049310d93b35fa0c
+# DesktopSpeaker (DesktopSpeaker.pkg) version 6.0.0
+install_script:
+  path: ../lib/no-team/scripts/desktopspeaker-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/desktopspeaker-darwin-uninstall

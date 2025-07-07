@@ -1,0 +1,6 @@
+hash_sha256:: abfcf5738aa837d9f3549e84fe00e50090aad2bff84a03c04faaca6e71f0019d
+# HoverCam Flex.app (HoverCam Flex.pkg) version 2.0.205
+install_script:
+  path: ../lib/no-team/scripts/hovercam-flexapp-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/hovercam-flexapp-darwin-uninstall

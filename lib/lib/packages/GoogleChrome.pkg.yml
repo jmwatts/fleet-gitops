@@ -1,0 +1,6 @@
+# Google Chrome (GoogleChrome.pkg) version 133.0.6943.127
+hash_sha256:: 3e66ea2dd587a29023a14af203f08e2b46a0b08aa858597e7f5216bbc7895aeb
+install_script:
+  path: ../lib/no-team/scripts/google-chrome-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/google-chrome-darwin-uninstall

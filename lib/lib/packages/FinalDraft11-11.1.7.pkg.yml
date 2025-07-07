@@ -1,0 +1,6 @@
+hash_sha256:: 93e10710819acfdc668c46f8a3282d1842ed25086ca5e76cb0458553afdf859c
+# Final Draft 11 (FinalDraft11-11.1.7.pkg) version 1
+install_script:
+  path: ../lib/no-team/scripts/final-draft-11-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/final-draft-11-darwin-uninstall

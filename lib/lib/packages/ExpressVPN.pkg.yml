@@ -1,0 +1,6 @@
+hash_sha256:: 9872744c64784d6c09c73522e50a8b76e0bb19b8f0351da1568068a7dbb0ccfe
+# ExpressVPN (ExpressVPN.pkg) version 11.70.0 (90675)
+install_script:
+  path: ../lib/no-team/scripts/expressvpn-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/expressvpn-darwin-uninstall
