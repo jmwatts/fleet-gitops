@@ -1,0 +1,6 @@
+# A+ Suite (A+ Suite for Mac_sign.pkg) version 2.7.2166.169 2.5.2161.162
+hash_sha256:: af93d6873add42305d7d51bf1131439789340225fa25d9705b2828cff178c0f3
+install_script:
+  path: ../lib/no-team/scripts/a-suite-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/a-suite-darwin-uninstall

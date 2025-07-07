@@ -1,0 +1,6 @@
+hash_sha256:: 906f77fbca3334fbdcd1145dd6f2725beab82a30b9b51eafd1a25c3fe7d669eb
+# AWS VPN Client (AWS VPN Client.pkg) version 5.2.1
+install_script:
+  path: ../lib/no-team/scripts/aws-vpn-client-darwin-install
+uninstall_script:
+  path: ../lib/no-team/scripts/aws-vpn-client-darwin-uninstall

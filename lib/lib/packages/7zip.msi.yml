@@ -1,0 +1,6 @@
+# 7-Zip 24.09 (7zip.msi) version 24.09.00.0
+hash_sha256:: c7f182dad21eebfce02f141d6a01f847d1e194c4d6aa29998d9305388553cf6a
+install_script:
+  path: ../lib/no-team/scripts/7zip-2409-windows-install
+uninstall_script:
+  path: ../lib/no-team/scripts/7zip-2409-windows-uninstall
