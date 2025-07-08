@@ -1,6 +1,0 @@
-hash_sha256:: c8a4291470be3d50524d70774f215b33f576a019b6168d02bdc88b9c1d8aa214
-# Elmedia Player.app (Elmedia Player-8.22.pkg) version 8.22
-install_script:
-  path: ../lib/no-team/scripts/elmedia-playerapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/elmedia-playerapp-darwin-uninstall

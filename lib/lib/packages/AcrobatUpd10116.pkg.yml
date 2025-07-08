@@ -1,6 +1,0 @@
-hash_sha256:: 2ff14910228b14f8699f8bbf4074b7a8014ef94ed5ae309152d2551c36117864
-# Adobe Acrobat X Pro (10.1.16) (AcrobatUpd10116.pkg) version 10.1.16
-install_script:
-  path: ../lib/no-team/scripts/adobe-acrobat-x-pro-10116-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/adobe-acrobat-x-pro-10116-darwin-uninstall

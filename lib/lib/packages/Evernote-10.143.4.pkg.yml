@@ -1,6 +1,0 @@
-hash_sha256:: 00a1e75a6b507f9a561d323e1573860324c0902d2c10b23e210bcbe768c51a25
-# Evernote (Evernote-10.143.4.pkg) version 10.143.4
-install_script:
-  path: ../lib/no-team/scripts/evernote-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/evernote-darwin-uninstall

@@ -1,6 +1,0 @@
-hash_sha256:: 9742689a50e96ddc04d80ceff046b28da2beefd617be18166f8c5e715ec60c59
-# VLC-win64.exe (VLC-win64.exe) version 
-install_script:
-  path: ../lib/no-team/scripts/vlcwin64exe-windows-install
-uninstall_script:
-  path: ../lib/no-team/scripts/vlcwin64exe-windows-uninstall

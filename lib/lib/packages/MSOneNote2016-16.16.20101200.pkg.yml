@@ -1,6 +1,0 @@
-hash_sha256:: b8448a99359e4531515c96ee845bf7f04b80d6f99e0685b6ba5c1426c397dc2b
-# Microsoft OneNote (MSOneNote2016-16.16.20101200.pkg) version 16.16.27
-install_script:
-  path: ../lib/no-team/scripts/microsoft-onenote-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/microsoft-onenote-darwin-uninstall

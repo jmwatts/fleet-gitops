@@ -1,6 +1,0 @@
-hash_sha256:: c23915c3bed59e2cf4b09a269f3c44bcffaed2d98b4c0659a1714462ff112447
-# Fantastical.app (Fantastical-4.0.14.pkg) version 4.0.14
-install_script:
-  path: ../lib/no-team/scripts/fantasticalapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/fantasticalapp-darwin-uninstall

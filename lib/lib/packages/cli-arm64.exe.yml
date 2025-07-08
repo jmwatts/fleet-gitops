@@ -1,6 +1,0 @@
-hash_sha256:: a3d6a6c68c2e759f7c36f35687f6b60d163c2e1a0846a4c07a4c4006a96d88c7
-# cli-arm64.exe (cli-arm64.exe) version 
-install_script:
-  path: ../lib/no-team/scripts/cliarm64exe-windows-install
-uninstall_script:
-  path: ../lib/no-team/scripts/cliarm64exe-windows-uninstall

@@ -1,6 +1,0 @@
-hash_sha256:: b6ce957b4e72aecb58266915e85a01498ad9dce6f64e1757605168383415caa2
-# Egnyte Connect.app (Egnyte Connect-3.14.18.pkg) version 3.14.18
-install_script:
-  path: ../lib/no-team/scripts/egnyte-connectapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/egnyte-connectapp-darwin-uninstall

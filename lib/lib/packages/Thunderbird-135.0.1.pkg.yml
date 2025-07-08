@@ -1,6 +1,0 @@
-hash_sha256:: f97dfe8b0a1d7f7b05a706003a3e9cef5b2d1400b2ed5d0086f40b074411f859
-# Thunderbird (Thunderbird-135.0.1.pkg) version 135.0.1
-install_script:
-  path: ../lib/no-team/scripts/thunderbird-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/thunderbird-darwin-uninstall

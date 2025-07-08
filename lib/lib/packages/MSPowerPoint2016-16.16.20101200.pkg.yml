@@ -1,6 +1,0 @@
-hash_sha256:: ffff171d4bc6a72e4e817c7be1d5388391b18b5fbfdbd5747d7171db6331688f
-# Microsoft PowerPoint (MSPowerPoint2016-16.16.20101200.pkg) version 16.16.27
-install_script:
-  path: ../lib/no-team/scripts/microsoft-powerpoint-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/microsoft-powerpoint-darwin-uninstall

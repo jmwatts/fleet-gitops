@@ -1,6 +1,0 @@
-hash_sha256:: 0066f2ef8ff83d2fca9b07c98f0f1335736649abe3651969db152fc0ca4b9b0e
-# Merlyn Origin.app (Merlyn Origin-2.8.1.pkg) version 2.8.1
-install_script:
-  path: ../lib/no-team/scripts/merlyn-originapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/merlyn-originapp-darwin-uninstall

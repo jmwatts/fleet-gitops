@@ -1,6 +1,0 @@
-hash_sha256:: 26cb54b84c88a955ba12138ad8cdd8b0a2f297e3f46973756abddcfec2169bff
-# Microsoft Excel (MSExcel2016-16.16.20101200.pkg) version 16.16.27
-install_script:
-  path: ../lib/no-team/scripts/microsoft-excel-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/microsoft-excel-darwin-uninstall

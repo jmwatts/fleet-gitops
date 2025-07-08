@@ -1,6 +1,0 @@
-hash_sha256:: a503618edc159fde28ebc30a3bc0fa0856bd4b4b315bc1009af7a425c64059b5
-# VMware Tools (VMwareToolsUpgrader.exe) version 12.4.5 build-23787635
-install_script:
-  path: ../lib/no-team/scripts/vmware-tools-windows-install
-uninstall_script:
-  path: ../lib/no-team/scripts/vmware-tools-windows-uninstall

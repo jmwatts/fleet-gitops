@@ -1,6 +1,0 @@
-hash_sha256:: 3d6df35579cfb389b966ec5e4c4a93b8c75ff06539e44de2cf7d6be839bbdd2d
-# Maccy.app (Maccy_2.3.0.pkg) version 2.3.0
-install_script:
-  path: ../lib/no-team/scripts/maccyapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/maccyapp-darwin-uninstall

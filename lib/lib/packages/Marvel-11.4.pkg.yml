@@ -1,6 +1,0 @@
-hash_sha256:: 3f9982fd0930fe328ad23efe471929a14d97b52781093d65454bda2a5b9b993f
-# Marvel.app (Marvel-11.4.pkg) version 11.4
-install_script:
-  path: ../lib/no-team/scripts/marvelapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/marvelapp-darwin-uninstall

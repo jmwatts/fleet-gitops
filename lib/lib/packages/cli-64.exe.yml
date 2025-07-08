@@ -1,6 +1,0 @@
-hash_sha256:: 28b001bb9a72ae7a24242bfab248d767a1ac5dec981c672a3944f7a072375e9a
-# cli-64.exe (cli-64.exe) version 
-install_script:
-  path: ../lib/no-team/scripts/cli64exe-windows-install
-uninstall_script:
-  path: ../lib/no-team/scripts/cli64exe-windows-uninstall
