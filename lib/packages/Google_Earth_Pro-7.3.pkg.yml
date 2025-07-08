@@ -1,0 +1,6 @@
+hash_sha256:: f737f950664451651e7344f3e6c6fcad3f0e82ad67d109495547c8973c278f45
+# Google Earth Pro (Google Earth Pro-7.3.pkg) version 7.3
+install_script:
+  path: ../no-team/scripts/google-earth-pro-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/google-earth-pro-darwin-uninstall

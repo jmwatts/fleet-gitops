@@ -1,0 +1,6 @@
+hash_sha256:: f27cb0eed7c9c5354caa5d7e37595eefbb048d7481bf698b2e5fb653b667c190
+# AWS VPN Client (AWS_VPN_Client.msi) version 5.2.2
+install_script:
+  path: ../no-team/scripts/aws-vpn-client-windows-install
+uninstall_script:
+  path: ../no-team/scripts/aws-vpn-client-windows-uninstall

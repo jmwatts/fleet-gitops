@@ -1,0 +1,6 @@
+hash_sha256:: fceb11c44c46dddc0503ad61deac954d231d87911e5bdbd78525a7b1d57a8f02
+# GitKraken.app (GitKraken-11.2.0.pkg) version 11.2.0
+install_script:
+  path: ../no-team/scripts/gitkrakenapp-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/gitkrakenapp-darwin-uninstall

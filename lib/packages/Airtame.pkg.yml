@@ -1,0 +1,6 @@
+hash_sha256:: 8ebedcc6627c309466b6cbff67a4fb336c0aa61623387c3888af872f6368d547
+# Airtame (Airtame.pkg) version 4.13.1
+install_script:
+  path: ../no-team/scripts/airtame-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/airtame-darwin-uninstall

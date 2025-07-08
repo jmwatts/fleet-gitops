@@ -1,0 +1,6 @@
+hash_sha256:: 24e8766c32f6588a73a60441a29fbe85585c7082cee62f230add858344852a31
+# Explorer Shortcut Helper for Lessmsi (AddWindowsExplorerShortcut.exe) version 1.3
+install_script:
+  path: ../no-team/scripts/explorer-shortcut-helper-for-lessmsi-windows-install
+uninstall_script:
+  path: ../no-team/scripts/explorer-shortcut-helper-for-lessmsi-windows-uninstall

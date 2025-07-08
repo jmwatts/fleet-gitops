@@ -1,0 +1,6 @@
+hash_sha256:: fc316560dfd8bfcd5359129c33f47d190084e1c43561e2bc0a366259d9af979e
+# Elgato Control Center.app (Elgato Control Center-1.8.1.pkg) version 1.8.1
+install_script:
+  path: ../no-team/scripts/elgato-control-centerapp-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/elgato-control-centerapp-darwin-uninstall

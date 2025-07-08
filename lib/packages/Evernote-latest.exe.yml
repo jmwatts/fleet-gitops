@@ -1,0 +1,6 @@
+hash_sha256:: 779c2734320bec9950f766f3c579b322c5ea3ad366cc42579c41a4ac12cc5546
+# Evernote (Evernote-latest.exe) version 10.143.4
+install_script:
+  path: ../no-team/scripts/evernote-windows-install
+uninstall_script:
+  path: ../no-team/scripts/evernote-windows-uninstall
