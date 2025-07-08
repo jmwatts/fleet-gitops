@@ -1,0 +1,6 @@
+hash_sha256:: 182f510d5d0e43305b71c15298a61fd8abf0e4e72f01b1b072f99f3fce54bb13
+# Maestral.app (Maestral-1.9.4.pkg) version 1.9.4
+install_script:
+  path: ../no-team/scripts/maestralapp-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/maestralapp-darwin-uninstall

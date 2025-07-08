@@ -1,0 +1,6 @@
+hash_sha256:: 038bbed276a5607b8824ff30265ac2795aa4306f1363afcb3370bf3a008cfaad
+# Hype4.app (Hype4-4.1.19.pkg) version 4.1.19
+install_script:
+  path: ../no-team/scripts/hype4app-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/hype4app-darwin-uninstall

@@ -1,0 +1,6 @@
+hash_sha256:: 9acb7a86113bc12bbb61af35af7d42de779633ff48b4589010002cab1836c92e
+# Microsoft Outlook (MSOutlook2016-16.16.20101200.pkg) version 16.16.27
+install_script:
+  path: ../no-team/scripts/microsoft-outlook-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/microsoft-outlook-darwin-uninstall

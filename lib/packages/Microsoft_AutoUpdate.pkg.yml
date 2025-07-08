@@ -1,0 +1,6 @@
+hash_sha256:: 5e4cac055805c69bbc670b1188820d78bc33119bf66c2e81f2fe4c2710749b6c
+# Microsoft AutoUpdate (Microsoft_AutoUpdate.pkg) version 4.79
+install_script:
+  path: ../no-team/scripts/microsoft-autoupdate-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/microsoft-autoupdate-darwin-uninstall

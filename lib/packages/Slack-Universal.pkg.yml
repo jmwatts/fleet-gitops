@@ -1,0 +1,6 @@
+# Slack (Slack-Universal.pkg) version 4.44.65
+hash_sha256:: d60d6ef3933e075568552666a79b7b12cc4f7c987167c0d977abac3445fec44e
+install_script:
+  path: ../no-team/scripts/slack-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/slack-darwin-uninstall

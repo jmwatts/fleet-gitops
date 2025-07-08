@@ -1,0 +1,6 @@
+hash_sha256:: 4bd03202b6633f9611b3fc8757880a9b2b38c7c0c40ed6bcbefec71c0099d493
+# VLC.exe (VLC.exe) version 
+install_script:
+  path: ../no-team/scripts/vlcexe-windows-install
+uninstall_script:
+  path: ../no-team/scripts/vlcexe-windows-uninstall

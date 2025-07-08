@@ -1,0 +1,6 @@
+hash_sha256:: 7ddb88e961d4cd6d49fce16a91488717dd86b1761eeabf97ea45465250df84fb
+# Install Disk Creator.app (Install Disk Creator-1.5.pkg) version 1.5
+install_script:
+  path: ../no-team/scripts/install-disk-creatorapp-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/install-disk-creatorapp-darwin-uninstall

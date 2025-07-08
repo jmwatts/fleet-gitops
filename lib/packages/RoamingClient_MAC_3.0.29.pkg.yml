@@ -1,0 +1,6 @@
+hash_sha256:: a39517dd758fe657a215bb0881b8e8103219a5e5a47b9e91b8c4cf3dd7ba17fc
+# Roaming Client (RoamingClient_MAC_3.0.29.pkg) version 3.0.29
+install_script:
+  path: ../no-team/scripts/roaming-client-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/roaming-client-darwin-uninstall

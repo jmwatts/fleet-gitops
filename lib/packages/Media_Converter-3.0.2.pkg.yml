@@ -1,0 +1,6 @@
+hash_sha256:: 4fdb568ac79743f1fb08a62ad522c0d3e34663020c06150f154a7acc7c924cbb
+# Media Converter.app (Media Converter-3.0.2.pkg) version 3.0.2
+install_script:
+  path: ../no-team/scripts/media-converterapp-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/media-converterapp-darwin-uninstall

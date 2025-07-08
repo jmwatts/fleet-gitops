@@ -1,0 +1,6 @@
+hash_sha256:: 1f052fc6aa95ded21ae0325cd961cfff81637397c05e7fcdeee05aac0fdf3e1d
+# Metashape.app (Metashape-2.2.1.pkg) version 2.2.1
+install_script:
+  path: ../no-team/scripts/metashapeapp-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/metashapeapp-darwin-uninstall

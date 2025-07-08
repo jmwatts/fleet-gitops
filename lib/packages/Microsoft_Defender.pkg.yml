@@ -1,0 +1,6 @@
+hash_sha256:: cd71eda728b7a16eab9f0f92823558d37d20534f51319c259fb14e52b057006b
+# Microsoft Defender (Microsoft_Defender.pkg) version 101.25042.0009
+install_script:
+  path: ../no-team/scripts/microsoft-defender-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/microsoft-defender-darwin-uninstall

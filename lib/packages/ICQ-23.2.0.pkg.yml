@@ -1,0 +1,6 @@
+hash_sha256:: 3a6456f36f3302d560d886042fbdbc746850af894810bb7423fc884b167eea17
+# ICQ.app (ICQ-23.2.0.pkg) version 23.2.0
+install_script:
+  path: ../no-team/scripts/icqapp-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/icqapp-darwin-uninstall

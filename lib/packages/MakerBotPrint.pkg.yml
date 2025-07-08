@@ -1,0 +1,6 @@
+hash_sha256:: 0ac4ceabf1ae1aa60c8a3260a10fe19be2aee18ef9d44ed5a1fd79aa53d550e7
+# MakerBot Print (MakerBotPrint.pkg) version 4.10.1.7494
+install_script:
+  path: ../no-team/scripts/makerbot-print-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/makerbot-print-darwin-uninstall

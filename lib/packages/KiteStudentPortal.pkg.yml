@@ -1,0 +1,6 @@
+hash_sha256:: 5500f0322a2ec42e8b825b947ab10beceb8cee06577fd5205b51ab1c4eb08661
+# Kite Student Portal (KiteStudentPortal.pkg) version 11.0.0
+install_script:
+  path: ../no-team/scripts/kite-student-portal-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/kite-student-portal-darwin-uninstall

@@ -1,0 +1,6 @@
+# Microsoft Teams (MSTeams-25016.1906.3434.7234.pkg) version 25016.1906.3434.7234
+hash_sha256:: e3593aca0c1dc77d1975968d91383b8478b0e92dc8ba71d15c091c69eb53ddff   
+install_script:
+  path: ../no-team/scripts/microsoft-teams-darwin-install
+uninstall_script:
+  path: ../no-team/scripts/microsoft-teams-darwin-uninstall
