@@ -1,6 +1,0 @@
-hash_sha256:: 15b9d1fb052fcbf0e983316fd8342ca4aa67067e33d1f58aa0ccd26b779624ac
-# MailRaider Pro.app (MailRaider Pro-4.2.6.pkg) version 4.2.6
-install_script:
-  path: ../lib/no-team/scripts/mailraider-proapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/mailraider-proapp-darwin-uninstall

@@ -1,6 +1,0 @@
-hash_sha256:: 077b49b74f5b122dc06b03dd88919bbbf3b506c4628f9998f8e1648d57e22d6d
-# Zotero (Zotero.exe) version 7.0
-install_script:
-  path: ../lib/no-team/scripts/zotero-windows-install
-uninstall_script:
-  path: ../lib/no-team/scripts/zotero-windows-uninstall

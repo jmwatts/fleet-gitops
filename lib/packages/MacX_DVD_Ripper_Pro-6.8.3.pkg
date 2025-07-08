@@ -1,6 +1,0 @@
-hash_sha256:: 9133c74460b0e791f5cf9a9dcce1ac492d2e33d5e432d44815f2ef65b49846b5
-# MacX DVD Ripper Pro.app (MacX DVD Ripper Pro-6.8.3.pkg) version 6.8.3
-install_script:
-  path: ../lib/no-team/scripts/macx-dvd-ripper-proapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/macx-dvd-ripper-proapp-darwin-uninstall

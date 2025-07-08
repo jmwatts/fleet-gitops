@@ -1,6 +1,0 @@
-hash_sha256:: 413ee1bce51f8d291ef51ebdb207ab038430f100ac8860af2808832acfb34e45
-# pkg (EndNote-21.5.0.20846.pkg) version 21.5.0.20846
-install_script:
-  path: ../lib/no-team/scripts/pkg-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/pkg-darwin-uninstall

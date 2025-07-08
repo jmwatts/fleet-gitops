@@ -1,6 +1,0 @@
-hash_sha256:: f48c52e95044d4fdc89f01077ce53aebbee3d4f5bfb29a6ad232ea625c4f3d40
-# StatusBarApp (WIFI dongle driver_5.0.9(MacOS 10.15).pkg) version 5.0.9.b6
-install_script:
-  path: ../lib/no-team/scripts/statusbarapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/statusbarapp-darwin-uninstall

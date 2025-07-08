@@ -1,6 +1,0 @@
-# Mozilla Firefox (Firefox-135.0.1.pkg) version 135.0.1
-hash_sha256:: c816a6c258b37a8b4a50535a87cb35e647a474beeb767334e27959c5adcbf298
-install_script:
-  path: ../lib/no-team/scripts/mozilla-firefox-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/mozilla-firefox-darwin-uninstall

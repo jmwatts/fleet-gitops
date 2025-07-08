@@ -1,6 +1,0 @@
-hash_sha256:: 4569dc58c656e5a1af76ada302cd5c714c37b6149386342c7169fff65308d9ac
-# FileMonitor.app (FileMonitor-1.3.0.pkg) version 1.3.0
-install_script:
-  path: ../lib/no-team/scripts/filemonitorapp-darwin-install
-uninstall_script:
-  path: ../lib/no-team/scripts/filemonitorapp-darwin-uninstall

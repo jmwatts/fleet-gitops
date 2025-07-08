@@ -1,6 +1,0 @@
-hash_sha256:: 5c1af46c7300e87a73dacf6cf41ce397e3f05df6bd9c7e227b4ac59f85769160
-# gui.exe (gui.exe) version 
-install_script:
-  path: ../lib/no-team/scripts/guiexe-windows-install
-uninstall_script:
-  path: ../lib/no-team/scripts/guiexe-windows-uninstall
