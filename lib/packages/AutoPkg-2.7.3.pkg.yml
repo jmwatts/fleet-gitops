@@ -1,5 +1,5 @@
-hash_sha256:: 1944a69aad18b0b9618b48292d115412a98ca165b626f48b11bbc59b504af082
 # autopkg (AutoPkg-2.7.3.pkg) version 2.7.3
+hash_sha256: 1944a69aad18b0b9618b48292d115412a98ca165b626f48b11bbc59b504af082
 install_script:
   path: ../no-team/scripts/autopkg-darwin-install
 uninstall_script:
