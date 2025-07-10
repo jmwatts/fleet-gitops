@@ -1,5 +1,5 @@
-hash_sha256:: d4c8903203097fc2043750903c7ed07564179a1a0a3357606c8a419fb15b8def
 # libUCPluginCisco.dylib.dSYM (Install_Cisco-Jabber-Mac.pkg) version 15.1.0.309843
+hash_sha256: d4c8903203097fc2043750903c7ed07564179a1a0a3357606c8a419fb15b8def
 install_script:
   path: ../no-team/scripts/libucpluginciscodylibdsym-darwin-install
 uninstall_script:
