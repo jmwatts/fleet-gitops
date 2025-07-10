@@ -1,5 +1,5 @@
-hash_sha256:: 43801ba648c39ce50a1b0055d4edaaa2573de1cd81435380f34f70d103e53ce2
 # Windows App (MSRemoteDesktop-2520.pkg) version 11.1.1
+hash_sha256: 43801ba648c39ce50a1b0055d4edaaa2573de1cd81435380f34f70d103e53ce2
 install_script:
   path: ../no-team/scripts/windows-app-darwin-install
 uninstall_script:
