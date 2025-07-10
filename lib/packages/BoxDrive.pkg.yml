@@ -1,5 +1,5 @@
-hash_sha256:: 4552f5a6bd6ffd7ad996d094d97aa5a4febf16ffa490edf02346d25e3f7ef290
 # Box Drive (BoxDrive.pkg) version 2.45.185
+hash_sha256: 4552f5a6bd6ffd7ad996d094d97aa5a4febf16ffa490edf02346d25e3f7ef290
 install_script:
   path: ../no-team/scripts/box-drive-darwin-install
 uninstall_script:
