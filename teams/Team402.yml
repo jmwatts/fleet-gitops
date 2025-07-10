@@ -1,0 +1,119 @@
+# Teams are available in Fleet Premium. 
+
+# This file updates policies, controls, and software for hosts assigned to "No team."
+
+# To update queries and agent options for hosts assigned to "No team," use the default.yml file.
+
+name: 'Team402'
+agent_options:
+  path: ../lib/agent-options.yml
+policies:
+queries:
+controls:
+  scripts:
+team_settings:
+  secrets:
+    - secret: "Team402"
+policies:
+controls:
+software:
+  packages:
+  - path: ../lib/packages/GoogleChrome.pkg.yml
+  - path: ../lib/packages/Firefox-135.0.1.pkg.yml
+  - path: ../lib/packages/Slack-Universal.pkg.yml
+  - path: ../lib/packages/1Password.pkg.yml
+  - path: ../lib/packages/Figma-125.5.6.pkg.yml
+  - path: ../lib/packages/MSEdge-134.3124.25030551.pkg.yml
+  - path: ../lib/packages/MSTeams-25016.1906.3434.7234.pkg.yml
+  - path: ../lib/packages/Zoom.pkg.yml
+  - path: ../lib/packages/MSWord2016-16.16.20101200.pkg.yml
+  - path: ../lib/packages/1PasswordSetup-latest.exe.yml
+  - path: ../lib/packages/7zip.msi.yml
+  - path: ../lib/packages/A+_Suite_for_Mac_sign.pkg.yml
+  - path: ../lib/packages/AcrobatUpd10116.pkg.yml
+  - path: ../lib/packages/AdobeReader.pkg.yml
+  - path: ../lib/packages/Airtame.pkg.yml
+  - path: ../lib/packages/AutodeskFusion-005.pkg.yml
+  - path: ../lib/packages/AutoPkg-2.7.3.pkg.yml
+  - path: ../lib/packages/AWS_VPN_Client.pkg.yml
+  - path: ../lib/packages/AWS_VPN_Client.msi.yml
+  - path: ../lib/packages/GoogleBackupandSync-3.56.3802.7766.pkg.yml
+  - path: ../lib/packages/BoxDrive.msi.yml
+  - path: ../lib/packages/BoxDrive.pkg.yml
+  - path: ../lib/packages/cli-64.exe.yml
+  - path: ../lib/packages/cli-arm64.exe.yml
+  - path: ../lib/packages/cli.exe.yml
+  - path: ../lib/packages/CloudflareWARP.pkg.yml
+  - path: ../lib/packages/CompanyPortal-53.2506311.003.pkg.yml
+  - path: ../lib/packages/DesktopSpeaker.pkg.yml
+  - path: ../lib/packages/Egnyte_Connect-3.14.18.pkg.yml
+  - path: ../lib/packages/Elgato_Control_Center-1.8.1.pkg.yml
+  - path: ../lib/packages/Elmedia_Player-8.22.pkg.yml
+  - path: ../lib/packages/Emacs-30.1.pkg.yml
+  - path: ../lib/packages/Evernote-10.143.4.pkg.yml
+  - path: ../lib/packages/Evernote-latest.exe.yml
+  - path: ../lib/packages/ExifTool-13.31.pkg.yml
+  - path: ../lib/packages/AddWindowsExplorerShortcut.exe.yml
+  - path: ../lib/packages/ExpressVPN.pkg.yml
+  - path: ../lib/packages/Fantastical-4.0.14.pkg.yml
+  - path: ../lib/packages/FileMonitor-1.3.0.pkg.yml
+  - path: ../lib/packages/FinalDraft11-11.1.7.pkg.yml
+  - path: ../lib/packages/GitKraken-11.2.0.pkg.yml
+  - path: ../lib/packages/Google_Earth_Pro-7.3.pkg.yml
+  - path: ../lib/packages/gui-64.exe.yml
+  - path: ../lib/packages/gui-arm64.exe.yml
+  - path: ../lib/packages/gui.exe.yml
+  - path: ../lib/packages/Horos-4.0.1.pkg.yml
+  - path: ../lib/packages/HoverCam_Flex.pkg.yml
+  - path: ../lib/packages/Hype4-4.1.19.pkg.yml
+  - path: ../lib/packages/ICQ-23.2.0.pkg.yml
+  - path: ../lib/packages/Install_Disk_Creator-1.5.pkg.yml
+  - path: ../lib/packages/SkypeForBusiness-16.31.11.pkg.yml
+  - path: ../lib/packages/iTunes.exe.yml
+  - path: ../lib/packages/KiteStudentPortal.pkg.yml
+  - path: ../lib/packages/lessmsi-gui.exe.yml
+  - path: ../lib/packages/Install_Cisco-Jabber-Mac.pkg.yml
+  - path: ../lib/packages/Maccy_2.3.0.pkg.yml
+  - path: ../lib/packages/MacmillanEducationTeacher-0.0.0.56.pkg.yml
+  - path: ../lib/packages/MacX_DVD_Ripper_Pro-6.8.3.pkg.yml
+  - path: ../lib/packages/MacX_Video_Converter_Pro-6.9.0.pkg.yml
+  - path: ../lib/packages/Maestral-1.9.4.pkg.yml
+  - path: ../lib/packages/Magic_Number_Machine-1.0.32.pkg.yml
+  - path: ../lib/packages/MailRaider_Pro-4.2.6.pkg.yml
+  - path: ../lib/packages/MakerBotPrint.pkg.yml
+  - path: ../lib/packages/Malwarebytes_Anti-Malware-1.3.1.pkg.yml
+  - path: ../lib/packages/Marvel-11.4.pkg.yml
+  - path: ../lib/packages/Fusion_Client_Install.pkg.yml
+  - path: ../lib/packages/Media_Converter-3.0.2.pkg.yml
+  - path: ../lib/packages/MediaInfo-25.04.pkg.yml
+  - path: ../lib/packages/MeisterTask-3.0.10.pkg.yml
+  - path: ../lib/packages/Merlyn_Origin-2.8.1.pkg.yml
+  - path: ../lib/packages/Metashape-2.2.1.pkg.yml
+  - path: ../lib/packages/MicrosoftAdvertisingEditor-11.31.20184.52913.pkg.yml
+  - path: ../lib/packages/Microsoft_AutoUpdate.pkg.yml
+  - path: ../lib/packages/Microsoft_Azure_Storage_Explorer-1.39.0.pkg.yml
+  - path: ../lib/packages/Microsoft_Defender.pkg.yml
+  - path: ../lib/packages/MSExcel2016-16.16.20101200.pkg.yml
+  - path: ../lib/packages/MSOneNote2016-16.16.20101200.pkg.yml
+  - path: ../lib/packages/MSOutlook2016-16.16.20101200.pkg.yml
+  - path: ../lib/packages/MSPowerPoint2016-16.16.20101200.pkg.yml
+  - path: ../lib/packages/Firefox_20Setup_20135.0.1.msi.yml
+  - path: ../lib/packages/MTI_Player-1.2.1.pkg.yml
+  - path: ../lib/packages/NordLayer.pkg.yml
+  - path: ../lib/packages/NordLocker.pkg.yml
+  - path: ../lib/packages/NordVPN.pkg.yml
+  - path: ../lib/packages/OneDrive.pkg.yml
+  - path: ../lib/packages/XQuartz-2.8.5.pkg.yml
+  - path: ../lib/packages/EndNote-21.5.0.20846.pkg.yml
+  - path: ../lib/packages/RoamingClient_MAC_3.0.29.pkg.yml
+  - path: ../lib/packages/t32.exe.yml
+  - path: ../lib/packages/WIFI_dongle_driver_5.0.9(MacOS 10.15).pkg.yml
+  - path: ../lib/packages/Thunderbird-135.0.1.pkg.yml
+  - path: ../lib/packages/Thunderbird.exe.yml
+  - path: ../lib/packages/VLC-win64.exe.yml
+  - path: ../lib/packages/VLC.exe.yml
+  - path: ../lib/packages/VMwareToolsUpgrader.exe.yml
+  - path: ../lib/packages/MSRemoteDesktop-2520.pkg.yml
+  - path: ../lib/packages/yubikey-manager-qt-1.2.5-mac.pkg.yml
+  - path: ../lib/packages/Zoom64.msi.yml
+  - path: ../lib/packages/Zotero.exe.yml
