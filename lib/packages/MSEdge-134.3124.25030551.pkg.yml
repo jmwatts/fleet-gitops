@@ -1,5 +1,5 @@
 # Microsoft Edge (MSEdge-134.3124.25030551.pkg) version 134.0.3124.51
-hash_sha256:: c6f0e912f0c98cfdbaf63812bbeb831f3ab003c99c9de4882ddee75a0ce64559
+hash_sha256: c6f0e912f0c98cfdbaf63812bbeb831f3ab003c99c9de4882ddee75a0ce64559
 install_script:
   path: ../no-team/scripts/microsoft-edge-darwin-install
 uninstall_script:
