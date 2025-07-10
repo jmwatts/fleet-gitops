@@ -1,5 +1,5 @@
-hash_sha256:: 5179ec304f53506e4c6e1d4e71ad53d4d5193b05516894cc524815bb1127e350
 # Horos.app (Horos-4.0.1.pkg) version 4.0.1
+hash_sha256: 5179ec304f53506e4c6e1d4e71ad53d4d5193b05516894cc524815bb1127e350
 install_script:
   path: ../no-team/scripts/horosapp-darwin-install
 uninstall_script:
