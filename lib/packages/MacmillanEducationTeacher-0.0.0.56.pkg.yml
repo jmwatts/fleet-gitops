@@ -1,5 +1,5 @@
-hash_sha256:: b91f335b3027e1ff812dedc705d51d88ec55982fd36c6efe6a77f27e071d9fc3
 # MacmillanEducationTeacher.app (MacmillanEducationTeacher-0.0.0.56.pkg) version 0.0.0
+hash_sha256: b91f335b3027e1ff812dedc705d51d88ec55982fd36c6efe6a77f27e071d9fc3
 install_script:
   path: ../no-team/scripts/macmillaneducationteacherapp-darwin-install
 uninstall_script:
