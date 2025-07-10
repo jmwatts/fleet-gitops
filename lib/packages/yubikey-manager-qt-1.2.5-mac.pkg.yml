@@ -1,5 +1,5 @@
-hash_sha256:: 009d1ea2ddf98da0ea748df65c2dc88ae16106a684f444a25a49f542413f8732
 # YubiKey Manager (yubikey-manager-qt-1.2.5-mac.pkg) version 1.2.5
+hash_sha256: 009d1ea2ddf98da0ea748df65c2dc88ae16106a684f444a25a49f542413f8732
 install_script:
   path: ../no-team/scripts/yubikey-manager-darwin-install
 uninstall_script:
