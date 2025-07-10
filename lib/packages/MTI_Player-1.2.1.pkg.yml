@@ -1,5 +1,5 @@
-hash_sha256:: 19dfeb9b49c00c61ef370819713b74f3bce85c11faa67fb47e012cb8798850b0
 # MTI Player.app (MTI Player-1.2.1.pkg) version 1.2.1
+hash_sha256: 19dfeb9b49c00c61ef370819713b74f3bce85c11faa67fb47e012cb8798850b0
 install_script:
   path: ../no-team/scripts/mti-playerapp-darwin-install
 uninstall_script:
