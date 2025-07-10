@@ -1,5 +1,5 @@
-hash_sha256:: 532674164cc7c51b0a5feba5dad9b1af272ed5f0c1d7d4a1687a2e6bc98c31c2
 # MediaInfo.app (MediaInfo-25.04.pkg) version 25.04
+hash_sha256: 532674164cc7c51b0a5feba5dad9b1af272ed5f0c1d7d4a1687a2e6bc98c31c2
 install_script:
   path: ../no-team/scripts/mediainfoapp-darwin-install
 uninstall_script:
