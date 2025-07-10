@@ -1,5 +1,5 @@
-hash_sha256:: 587ec60db5bdf06b596a189a77eff030600058399bca249b9aee7df0ff29c282
 # Microsoft Advertising Editor.app (MicrosoftAdvertisingEditor-11.31.20184.52913.pkg) version 11.31.20184.52913
+hash_sha256: 587ec60db5bdf06b596a189a77eff030600058399bca249b9aee7df0ff29c282
 install_script:
   path: ../no-team/scripts/microsoft-advertising-editorapp-darwin-install
 uninstall_script:
