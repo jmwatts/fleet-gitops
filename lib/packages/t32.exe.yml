@@ -1,5 +1,5 @@
-hash_sha256:: 6b4195e640a85ac32eb6f9628822a622057df1e459df7c17a12f97aeabc9415b
 # Simple Launcher (t32.exe) version 1.1.0.14
+hash_sha256: 6b4195e640a85ac32eb6f9628822a622057df1e459df7c17a12f97aeabc9415b
 install_script:
   path: ../no-team/scripts/simple-launcher-windows-install
 uninstall_script:
