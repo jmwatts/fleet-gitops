@@ -1,5 +1,5 @@
-hash_sha256:: 7c3bce4aa53e99fd153542aef4d17beba2a54b4d3d67fdfd260c53cf6f0fbc14
 # Box (BoxDrive.msi) version 2.45.187
+hash_sha256: 7c3bce4aa53e99fd153542aef4d17beba2a54b4d3d67fdfd260c53cf6f0fbc14
 install_script:
   path: ../no-team/scripts/box-windows-install
 uninstall_script:
