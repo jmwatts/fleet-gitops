@@ -1,5 +1,5 @@
-hash_sha256:: 450a56870b508bb7784fb514466a099b2acb73c2d7e00689c1e73c8b68eb987b
 # Adobe Reader XI (11.0.23) (AdobeReader.pkg) version 11.0.23
+hash_sha256: 450a56870b508bb7784fb514466a099b2acb73c2d7e00689c1e73c8b68eb987b
 install_script:
   path: ../no-team/scripts/adobe-reader-xi-11023-darwin-install
 uninstall_script:
