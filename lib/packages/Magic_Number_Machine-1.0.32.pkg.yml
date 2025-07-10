@@ -1,5 +1,5 @@
-hash_sha256:: 68ce14809f7061b95d64608242906c55fe0a0911bebceb35c4d9b7070d49cef7
 # Magic Number Machine.app (Magic Number Machine-1.0.32.pkg) version 1.0.32
+hash_sha256: 68ce14809f7061b95d64608242906c55fe0a0911bebceb35c4d9b7070d49cef7
 install_script:
   path: ../no-team/scripts/magic-number-machineapp-darwin-install
 uninstall_script:
