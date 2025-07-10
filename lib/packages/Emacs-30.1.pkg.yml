@@ -1,5 +1,5 @@
-hash_sha256:: 00d8e70b8fb63275621da8c8dfda45689ee349278d766f3a9a4281b1c4e92136
 # Emacs.app (Emacs-30.1.pkg) version 30.1
+hash_sha256: 00d8e70b8fb63275621da8c8dfda45689ee349278d766f3a9a4281b1c4e92136
 install_script:
   path: ../no-team/scripts/emacsapp-darwin-install
 uninstall_script:
