@@ -1,5 +1,5 @@
-hash_sha256:: 6709b7d2fe51d2ca5ed108bbd00b984f6fe1c7811dd1841a340640c015f1ebf2
 # installer-window-title (SkypeForBusiness-16.31.11.pkg) version 16.31.11
+hash_sha256: 6709b7d2fe51d2ca5ed108bbd00b984f6fe1c7811dd1841a340640c015f1ebf2
 install_script:
   path: ../no-team/scripts/installerwindowtitle-darwin-install
 uninstall_script:
