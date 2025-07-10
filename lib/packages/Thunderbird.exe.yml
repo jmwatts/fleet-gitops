@@ -1,5 +1,5 @@
-hash_sha256:: 39b1b2eded08170e4afb0df90f351fa0c474d1a11935f5165221734d9567cc42
 # Thunderbird (Thunderbird.exe) version 18.05
+hash_sha256: 39b1b2eded08170e4afb0df90f351fa0c474d1a11935f5165221734d9567cc42
 install_script:
   path: ../no-team/scripts/thunderbird-windows-install
 uninstall_script:
