@@ -4,7 +4,16 @@
 
 # To update queries and agent options for hosts assigned to "No team," use the default.yml file.
 
-name: Team1
+name: 'Team1'
+agent_options:
+  path: ../lib/agent-options.yml
+policies:
+queries:
+controls:
+  scripts:
+team_settings:
+  secrets:
+    - secret: "Team1"
 policies:
 controls:
 software:
