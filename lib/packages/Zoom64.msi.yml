@@ -1,5 +1,5 @@
-hash_sha256:: ef86477aad666fb4ba208ccf3fcf0c3dfe90bb1389e63ed99cde956217078c1b
 # Zoom Workplace (64-bit) (Zoom64.msi) version 6.5.6476
+hash_sha256: ef86477aad666fb4ba208ccf3fcf0c3dfe90bb1389e63ed99cde956217078c1b
 install_script:
   path: ../no-team/scripts/zoom-workplace-64bit-windows-install
 uninstall_script:
