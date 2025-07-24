@@ -21,6 +21,14 @@ controls:
   scripts:
     - path: ../lib/remove-zoom-artifacts.script.sh
     - path: ../lib/set-timezone.script.sh
+  macos_setup:
+    bootstrap_package: ""
+    enable_end_user_authentication: false
+    macos_setup_assistant: ""
+    software:
+      - package_path: ../lib/packages/clipy.yml # Clipy
+      - app_store_id: '803453959' # Slack Desktop
+      - slug: google-chrome/darwin      
 team_settings:
   secrets:
     - secret: "$FLEET_WORKSTATIONS_ENROLL_SECRET"
