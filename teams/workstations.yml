@@ -30,13 +30,13 @@ software:
       url: https://dl.teamviewer.com/download/version_15x/update/15.66.6/TeamViewer.pkg
     - hash_sha256: 62780f858b28ae3b7f3fa412b035f4bfdb77fc099f88db81b87d1aca47cced74 # Clipy (Clipy_1.2.1.pkg) version 1.2.1
       pre_install_query:
-        path: ../queries/pre-install-query-clipy.yml
+        path: ../lib/queries/pre-install-query-clipy.yml
       install_script:
-        path: ../scripts/install-clipy.sh
+        path: ../lib/scripts/install-clipy.sh
       post_install_script:
-        path: ../scripts/post-install-clipy.sh
+        path: ../lib/scripts/post-install-clipy.sh
       uninstall_script:
-        path: ../scripts/uninstall-clipy.sh
+        path: ../lib/scripts/uninstall-clipy.sh
     - path: ../lib/packages/box.yml
     - path: ../lib/packages/clipy.yml
     - path: ../lib/packages/company-portal.yml
