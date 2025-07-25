@@ -12,6 +12,7 @@ policies:
   - path: ../lib/macos-device-health.policies.yml
   - path: ../lib/windows-device-health.policies.yml
   - path: ../lib/linux-device-health.policies.yml
+  - path: ../lib/Policies/install-1password.yml
 queries:
   - path: ../lib/collect-usb-devices.queries.yml
   - path: ../lib/collect-failed-login-attempts.queries.yml
@@ -45,11 +46,7 @@ software:
       uninstall_script:
         path: ../lib/scripts/uninstall-clipy.sh
     - path: ../lib/packages/box.yml
-    - path: ../lib/packages/clipy.yml
-    - path: ../lib/packages/company-portal.yml
-    - path: ../lib/packages/santa.yml
-    - path: ../lib/packages/trial.yml
-    - path: ../lib/packages/MultiPackage.yml
+    - path: ../lib/packages/brisk.yml
   app_store_apps:
     - app_store_id: '803453959' # Slack Desktop
       self_service: true
