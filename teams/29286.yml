@@ -1,0 +1,16 @@
+name: '29286'
+agent_options:
+  path: ../lib/agent-options.yml
+policies:
+queries:
+controls:
+  scripts:
+team_settings:
+  secrets:
+    - secret: "29286"
+software:
+  packages:
+  app_store_apps:
+  fleet_maintained_apps:
+    - slug: google-chrome/darwin
+      self_service: true
