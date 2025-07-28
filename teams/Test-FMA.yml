@@ -11,6 +11,14 @@ name: 'Test FMA'
 agent_options:
   path: ../lib/agent-options.yml
 policies:
+  - name: macOS - Gingko installed
+    query: SELECT 1 FROM apps WHERE bundle_identifier = 'com.gingkoapp.desktop';
+    install_software:
+      package_path: ../lib/software/gingko.yml
+    critical: false
+    description: Something Something.
+    resolution: Gingko should be automatically installed. If it is missing, install it from self-service. 
+    platform: darwin
 queries:
 controls:
   scripts:
@@ -20,6 +28,7 @@ team_settings:
 software:
   packages:
     - url: https://e3.boxcdn.net/desktop/releases/mac/BoxDrive-2.43.205.pkg # Box Drive
+    - path: ../lib/packages/gingko.yml
   app_store_apps:
   fleet_maintained_apps:
     - slug: google-chrome/darwin
