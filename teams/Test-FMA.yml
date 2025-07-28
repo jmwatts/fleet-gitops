@@ -19,6 +19,7 @@ team_settings:
     - secret: "$FLEET_TEST_FMA_ENROLL_SECRET"
 software:
   packages:
+    - url: https://e3.boxcdn.net/desktop/releases/mac/BoxDrive-2.43.205.pkg # Box Drive
   app_store_apps:
   fleet_maintained_apps:
     - slug: google-chrome/darwin
