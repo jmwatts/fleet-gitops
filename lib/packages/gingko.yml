@@ -1,0 +1,6 @@
+# Gingko (Gingko_2.4.15.pkg) version 2.4.15
+hash_sha256: 5159fe49e751cbd3cf77bb36e505dcecca5a1571ea3ee195c50a9dc8408dc6d2
+install_script:
+  path: ../scripts/install-gingko.sh
+uninstall_script:
+  path: ../scripts/uninstall-gingko.sh
