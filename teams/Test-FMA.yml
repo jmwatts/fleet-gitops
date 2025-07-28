@@ -14,7 +14,7 @@ policies:
   - name: macOS - Gingko installed
     query: SELECT 1 FROM apps WHERE bundle_identifier = 'com.gingkoapp.desktop';
     install_software:
-      package_path: ../lib/software/gingko.yml
+      package_path: ../lib/packages/gingko.yml
     critical: false
     description: Something Something.
     resolution: Gingko should be automatically installed. If it is missing, install it from self-service. 
