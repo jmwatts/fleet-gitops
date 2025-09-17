@@ -37,28 +37,204 @@ software:
       uninstall_script:
         path: ../lib/scripts/chrome-uninstall-script.ps1
   packages:
-    - path: ../lib/packages/1password-cli1.yml
-    - path: ../lib/packages/adoptopenjdk.yml
-    - path: ../lib/packages/airmedia.yml
-    - path: ../lib/packages/airtool.yml
-    - path: ../lib/packages/alfaview.yml
-    - path: ../lib/packages/amazon-workdocs-drive.yml
-    - path: ../lib/packages/anka-build-cloud-controller-and-registry.yml
-    - path: ../lib/packages/anka-build-cloud-controller.yml
-    - path: ../lib/packages/anka-build-cloud-registry.yml
-    - path: ../lib/packages/anka-virtualization.yml
-    - path: ../lib/packages/aptible.yml
-    - path: ../lib/packages/aquaskk.yml
-    - path: ../lib/packages/arq.yml
-    - path: ../lib/packages/arturia-software-center.yml
-    - path: ../lib/packages/audiogridder-plugin.yml
-    - path: ../lib/packages/audiogridder-server.yml
-    - path: ../lib/packages/autogram.yml
-    - path: ../lib/packages/aviatrix-vpn-client.yml
-    - path: ../lib/packages/fuse-t.yml
-    - path: ../lib/packages/fuse.yml
-    - path: ../lib/packages/fx-cast-bridge.yml
-    - path: ../lib/packages/galaxybudsclient.yml
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/1password-cli1.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/adoptopenjdk.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/airmedia.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/airtool.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/alfaview.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/amazon-workdocs-drive.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-build-cloud-controller-and-registry.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-build-cloud-controller.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-build-cloud-registry.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-virtualization.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/aptible.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/aquaskk.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/arq.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/arturia-software-center.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/audiogridder-plugin.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/audiogridder-server.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/autogram.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/aviatrix-vpn-client.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fuse-t.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fuse.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fx-cast-bridge.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/galaxybudsclient.yml
+      self_service: true
 team_settings:
   secrets:
     - secret: Team2secret

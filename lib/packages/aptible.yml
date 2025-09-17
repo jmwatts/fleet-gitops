@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: a4270e5b26cd282860b37baaca93d79b2e75e722fe7136b36e771acc5eb5da16
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://omnibus-aptible-toolbelt.s3.amazonaws.com/aptible/omnibus-aptible-toolbelt/master/gh-64/pkg/aptible-toolbelt-0.25.0%2B20250825144101-mac-os-x.10.15.7-1.pkg

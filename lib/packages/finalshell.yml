@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: f649960744d22fe2fb1d8592fa8413f14f8e89728f5189d25884383a96b86883
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://dl.hostbuf.com/finalshell3/finalshell_macos_arm64.pkg

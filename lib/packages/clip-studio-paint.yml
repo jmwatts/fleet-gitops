@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 8e171985e9c7247d3a79c7adf4aee152c3020ea1e10b49c450bdab01b51b00f2
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://vd.clipstudio.net/clipcontent/paint/app/414/CSP_414m_app.pkg

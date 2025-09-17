@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: ac268f1bf0fc28b57a432ef04d72205c6d3092c2f178229d23a76223c6bd0297
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://github.com/deepstreamIO/deepstream.io/releases/download/v10.0.0/deepstream.io-mac-10.0.0.pkg

@@ -1,9 +1,1 @@
-categories:
-  - Communication
-  - Productivity
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://edge.elgato.com/egc/macos/sd/Stream_Deck_7.0.0.22005.pkg

@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: d2038f743eebdbea632dacf8c35a8ad349b2e398778bbf9acee95032ff96e7ff
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://download.sp.f-secure.com/freedome/installer/2/Freedome.pkg

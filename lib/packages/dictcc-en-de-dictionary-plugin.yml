@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 33db30ed79d732ac425cfc7a87c36436320944fe003564b05e48626d8dd4dc0c
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://www1.dict.cc/download/macosx10.6_dict.cc_dictionary.pkg

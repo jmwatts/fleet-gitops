@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 34897089f3f67551f847c5d80d639ab9a50e7dea05181f57f9f997a5f21fea2d
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.414/dotnet-sdk-8.0.414-osx-arm64.pkg

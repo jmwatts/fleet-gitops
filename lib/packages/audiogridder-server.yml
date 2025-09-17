@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: ba69f70ee4fd7eb2e962cc203310f1a38f26f0f8432dc232f78af1734c0e699a
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://audiogridder.com/releases/AudioGridderServer_1.2.0_1_macOS-universal.pkg

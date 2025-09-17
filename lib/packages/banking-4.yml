@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: ea57996621e433ad2bb73ecd4e11631bdd2493edbfba2828390b5b8309d9f0bc
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://subsembly.com/download/MacBanking4.pkg

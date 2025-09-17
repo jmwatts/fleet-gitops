@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 02ef1669ad24814e9b019153ac205611e381850afa3eb274004880dd1b078188
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://github.com/apple/container/releases/download/0.4.1/container-0.4.1-installer-signed.pkg

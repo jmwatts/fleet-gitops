@@ -1,9 +1,1 @@
-categories:
-  - Communication
-  - Productivity
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-macosx-aarch64.pkg

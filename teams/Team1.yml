@@ -47,10 +47,42 @@ software:
       uninstall_script:
         path: ../lib/scripts/chrome-uninstall-script.ps1
   packages:
-    - path: ../lib/packages/1password-cli1.yml
-    - path: ../lib/packages/adoptopenjdk.yml
-    - path: ../lib/packages/airmedia.yml
-    - path: ../lib/packages/airtool.yml
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/1password-cli1.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/adoptopenjdk.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/airmedia.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/airtool.yml
+      self_service: true
 team_settings:
   secrets:
     - secret: Team1secret

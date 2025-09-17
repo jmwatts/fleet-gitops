@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: c1c48a37c83af44ce50bee68879856c96b2f6c97360ce461b1c7d653515be7fd
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://github.com/kyleneideck/BackgroundMusic/releases/download/v0.4.3/BackgroundMusic-0.4.3.pkg

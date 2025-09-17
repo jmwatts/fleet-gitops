@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: e71c70072c338bd41f3925a541f5d7a73d9e063a00786a603ea9043ced1baa16
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://d20adtppz83p9s.cloudfront.net/OSX/5.3.1/AWS_VPN_Client.pkg

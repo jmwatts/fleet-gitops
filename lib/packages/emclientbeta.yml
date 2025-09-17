@@ -1,9 +1,1 @@
-categories:
-  - Communication
-  - Productivity
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://cdn-dist.emclient.com/dist/v10.0.2362_Mac/setup.pkg

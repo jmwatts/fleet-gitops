@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 977787db5d69981d92e40878933e41de11ffed2017cf5bf2737e9d21abdf405a
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://d3f2hupz96ggz3.cloudfront.net/mac_v2/AmazonWorkDocsDrive.pkg

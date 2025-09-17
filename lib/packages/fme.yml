@@ -1,9 +1,1 @@
-categories:
-  - Communication
-  - Productivity
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://downloads.safe.com/fme/2024/macos-aarch64/fme-form-2024.1-b24612-macosx-aarch64.pkg

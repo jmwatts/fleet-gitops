@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 8890f09ef044f0670753c1f661ddd7218f9f37b7e09349f28f7e50d954481660
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://downloadplugins.citrix.com/ReceiverUpdates/Prod/Receiver/Mac/CitrixWorkspaceAppUniversal25.05.10.16.pkg

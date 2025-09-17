@@ -49,103 +49,879 @@ software:
       uninstall_script:
         path: ../lib/scripts/chrome-uninstall-script.ps1
   packages:
-    - path: ../lib/packages/1password-cli1.yml
-    - path: ../lib/packages/adoptopenjdk.yml
-    - path: ../lib/packages/airmedia.yml
-    - path: ../lib/packages/airtool.yml
-    - path: ../lib/packages/alfaview.yml
-    - path: ../lib/packages/amazon-workdocs-drive.yml
-    - path: ../lib/packages/anka-build-cloud-controller-and-registry.yml
-    - path: ../lib/packages/anka-build-cloud-controller.yml
-    - path: ../lib/packages/anka-build-cloud-registry.yml
-    - path: ../lib/packages/anka-virtualization.yml
-    - path: ../lib/packages/aptible.yml
-    - path: ../lib/packages/aquaskk.yml
-    - path: ../lib/packages/arq.yml
-    - path: ../lib/packages/arturia-software-center.yml
-    - path: ../lib/packages/audiogridder-plugin.yml
-    - path: ../lib/packages/audiogridder-server.yml
-    - path: ../lib/packages/autogram.yml
-    - path: ../lib/packages/aviatrix-vpn-client.yml
-    - path: ../lib/packages/aws-vpn-client.yml
-    - path: ../lib/packages/azookey.yml
-    - path: ../lib/packages/background-music.yml
-    - path: ../lib/packages/bankid.yml
-    - path: ../lib/packages/banking-4.yml
-    - path: ../lib/packages/bing-wallpaper.yml
-    - path: ../lib/packages/bitfocus-buttons.yml
-    - path: ../lib/packages/bluestacks.yml
-    - path: ../lib/packages/blurscreen.yml
-    - path: ../lib/packages/box-drive.yml
-    - path: ../lib/packages/bricklink-partdesigner.yml
-    - path: ../lib/packages/bricklink-studio.yml
-    - path: ../lib/packages/cardinal.yml
-    - path: ../lib/packages/cernbox.yml
-    - path: ../lib/packages/cisco-jabber.yml
-    - path: ../lib/packages/citrix-workspace.yml
-    - path: ../lib/packages/clamxav.yml
-    - path: ../lib/packages/clash-party.yml
-    - path: ../lib/packages/clip-studio-paint.yml
-    - path: ../lib/packages/cold-turkey-blocker.yml
-    - path: ../lib/packages/concept2-utility.yml
-    - path: ../lib/packages/container.yml
-    - path: ../lib/packages/corretto.yml
-    - path: ../lib/packages/corretto11.yml
-    - path: ../lib/packages/corretto17.yml
-    - path: ../lib/packages/corretto21.yml
-    - path: ../lib/packages/corretto8.yml
-    - path: ../lib/packages/daedalus-mainnet.yml
-    - path: ../lib/packages/deco.yml
-    - path: ../lib/packages/deepstream.yml
-    - path: ../lib/packages/desktoppr.yml
-    - path: ../lib/packages/detail.yml
-    - path: ../lib/packages/dictcc-en-de-dictionary-plugin.yml
-    - path: ../lib/packages/digikam.yml
-    - path: ../lib/packages/diskspace.yml
-    - path: ../lib/packages/displaycal.yml
-    - path: ../lib/packages/distroav.yml
-    - path: ../lib/packages/docker-toolbox.yml
-    - path: ../lib/packages/dotnet-runtime.yml
-    - path: ../lib/packages/dotnet-runtimepreview.yml
-    - path: ../lib/packages/dotnet-sdk.yml
-    - path: ../lib/packages/dotnet-sdk8.yml
-    - path: ../lib/packages/dotnet-sdkpreview.yml
-    - path: ../lib/packages/droidcam-obs.yml
-    - path: ../lib/packages/duckietv.yml
-    - path: ../lib/packages/duo-connect.yml
-    - path: ../lib/packages/dyalog.yml
-    - path: ../lib/packages/dymo-connect.yml
-    - path: ../lib/packages/eagle.yml
-    - path: ../lib/packages/elgato-camera-hub.yml
-    - path: ../lib/packages/elgato-stream-deck.yml
-    - path: ../lib/packages/elgato-wave-link.yml
-    - path: ../lib/packages/emclient.yml
-    - path: ../lib/packages/emclientbeta.yml
-    - path: ../lib/packages/enclave.yml
-    - path: ../lib/packages/enpass.yml
-    - path: ../lib/packages/entry.yml
-    - path: ../lib/packages/epichrome.yml
-    - path: ../lib/packages/epoccam.yml
-    - path: ../lib/packages/eu.yml
-    - path: ../lib/packages/eusamanager.yml
-    - path: ../lib/packages/expressvpn.yml
-    - path: ../lib/packages/feem.yml
-    - path: ../lib/packages/finalshell.yml
-    - path: ../lib/packages/finch.yml
-    - path: ../lib/packages/flox.yml
-    - path: ../lib/packages/fme.yml
-    - path: ../lib/packages/folding-at-home.yml
-    - path: ../lib/packages/folding-at-homebeta.yml
-    - path: ../lib/packages/foxit-pdf-editor.yml
-    - path: ../lib/packages/foxitreader.yml
-    - path: ../lib/packages/freedome.yml
-    - path: ../lib/packages/fujifilm-tether-app.yml
-    - path: ../lib/packages/fuse-t.yml
-    - path: ../lib/packages/fuse.yml
-    - path: ../lib/packages/fx-cast-bridge.yml
-    - path: ../lib/packages/galaxybudsclient.yml
-    - path: ../lib/packages/codium-linux-amd.yml
-    - path: ../lib/packages/codium-windows-x64.yml
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/1password-cli1.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/adoptopenjdk.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/airmedia.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/airtool.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/alfaview.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/amazon-workdocs-drive.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-build-cloud-controller-and-registry.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-build-cloud-controller.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-build-cloud-registry.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/anka-virtualization.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/aptible.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/aquaskk.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/arq.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/arturia-software-center.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/audiogridder-plugin.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/audiogridder-server.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/autogram.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/aviatrix-vpn-client.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/aws-vpn-client.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/azookey.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/background-music.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/bankid.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/banking-4.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/bing-wallpaper.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/bitfocus-buttons.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/bluestacks.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/blurscreen.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/box-drive.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/bricklink-partdesigner.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/bricklink-studio.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/cardinal.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/cernbox.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/cisco-jabber.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/citrix-workspace.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/clamxav.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/clash-party.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/clip-studio-paint.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/cold-turkey-blocker.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/concept2-utility.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/container.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/corretto.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/corretto11.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/corretto17.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/corretto21.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/corretto8.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/daedalus-mainnet.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/deco.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/deepstream.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/desktoppr.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/detail.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dictcc-en-de-dictionary-plugin.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/digikam.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/diskspace.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/displaycal.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/distroav.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/docker-toolbox.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dotnet-runtime.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dotnet-runtimepreview.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dotnet-sdk.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dotnet-sdk8.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dotnet-sdkpreview.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/droidcam-obs.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/duckietv.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/duo-connect.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dyalog.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/dymo-connect.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/eagle.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/elgato-camera-hub.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/elgato-stream-deck.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/elgato-wave-link.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/emclient.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/emclientbeta.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/enclave.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/enpass.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/entry.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/epichrome.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/epoccam.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/eu.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/eusamanager.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/expressvpn.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/feem.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/finalshell.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/finch.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/flox.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fme.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/folding-at-home.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/folding-at-homebeta.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/foxit-pdf-editor.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/foxitreader.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/freedome.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fujifilm-tether-app.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fuse-t.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fuse.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fx-cast-bridge.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/galaxybudsclient.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/codium-linux-amd.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/codium-windows-x64.yml
+      self_service: true
 team_settings:
   secrets:
     - secret: $FLEET_WORKSTATIONS_ENROLL_SECRET

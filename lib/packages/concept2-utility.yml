@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 2796b6275e9d1ab08051b94e5c33e89a5b14d31020132324f9948f8aa754cae3
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://software.concept2.com/utility/Concept2Utility71700.pkg

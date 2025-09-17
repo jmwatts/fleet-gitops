@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 910addff064ba877dd598093fe1618f7f5f5a46e55036f6b69791bfcd27f34b4
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://getcoldturkey.com/files/Cold_Turkey_Mac_Installer.pkg

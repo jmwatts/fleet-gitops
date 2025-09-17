@@ -28,8 +28,48 @@ software:
       uninstall_script:
         path: ../lib/scripts/chrome-uninstall-script.ps1
   packages:
-    - path: ../lib/packages/spyder.yml
-    - path: ../lib/packages/metasploit.yml
-    - path: ../lib/packages/fuse.yml
-    - path: ../lib/packages/expressvpn.yml
-    - path: ../lib/packages/duckietv.yml
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/spyder.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/metasploit.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/fuse.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/expressvpn.yml
+      self_service: true
+    - categories:
+        - Communication
+        - Productivity
+      labels_include_any:
+        - test1
+        - Design
+        - Sales
+      path: ../lib/packages/duckietv.yml
+      self_service: true

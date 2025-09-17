@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 6db6da7e64a54d46848357fe072da401439b13a55ad2f1c451c41586ef7749bc
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://downloads.flox.dev/by-env/stable/osx/flox-1.7.2.aarch64-darwin.pkg

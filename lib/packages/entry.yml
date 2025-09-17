@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: 565a9f579a4a6a309729dda1779d783c6a7c114ebc6777ad5a096fe471daabe9
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://playentry.org/uploads/data/installers/Entry-2.1.29.pkg

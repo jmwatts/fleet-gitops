@@ -1,10 +1,2 @@
-categories:
-  - Communication
-  - Productivity
 hash_sha256: e1339b5b4489291742c2805933922c3875236af5520c7fd65365b7a3a05b5b7d
-labels_include_any:
-  - test1
-  - Design
-  - Sales
-self_service: true
 url: https://dl.fujifilm-x.com/support/software/tether-app-mac1340-ym6rhx10/FUJIFILM_TetherApp_Mac1340.pkg
