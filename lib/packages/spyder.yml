@@ -1,5 +1,6 @@
 # spyder  (Spyder-macOS-arm64.pkg) version 6.0.8
 url: https://github.com/spyder-ide/spyder/releases/download/v6.0.8/Spyder-macOS-arm64.pkg
+hash_sha256: c687aaa0189bee1e436f7b0fb276cc0d61f27b3c54da601ec30562f49893fa3a
 self_service: true
 labels_include_any: 
   - test1
