@@ -1,5 +1,6 @@
 # metasploit  (metasploit-framework-6.4.87-20250907055538-1rapid7-1.x86_64.pkg) version 6.4.87
 url: https://osx.metasploit.com/metasploit-framework-6.4.87-20250907055538-1rapid7-1.x86_64.pkg
+hash_sha256: 3c1aa59620c2d2ba4ed713679ae5d8ce7f9c1671479d4e9383f02284b746c36d
 self_service: true
 labels_include_any: 
   - test1
