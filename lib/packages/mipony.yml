@@ -1,5 +1,6 @@
 # mipony  (Mipony-Installer.pkg) version unknown
 url: https://download.mipony.net/downloads/mac/Mipony-Installer.pkg
+hash_sha256: ffe372756bcc327a450b5c942406df8bdd8876ff88d4ba6cc8c283cb55ae17aa
 self_service: true
 labels_include_any: 
   - test1

@@ -116,6 +116,18 @@ software:
     - path: ../lib/packages/galaxybudsclient.yml
     - path: ../lib/packages/codium-linux-amd.yml
     - path: ../lib/packages/codium-windows-x64.yml
+    - path: ../lib/packages/skype-for-business.yml
+    - path: ../lib/packages/sokim.yml
+    - path: ../lib/packages/wifiman.yml
+    - path: ../lib/packages/mipony.yml
+    - path: ../lib/packages/vcam.yml
+    - path: ../lib/packages/weasis.yml
+    - path: ../lib/packages/yo-app.yml
+    - path: ../lib/packages/virtualdj.yml
+    - path: ../lib/packages/warsaw.yml
+    - path: ../lib/packages/whatsize.yml
+    - path: ../lib/packages/naps2.yml
+    - path: ../lib/packages/netbeans.yml
   app_store_apps:
     - app_store_id: '803453959' # Slack Desktop
       self_service: true

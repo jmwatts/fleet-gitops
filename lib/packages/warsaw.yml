@@ -1,5 +1,6 @@
 # warsaw  (warsaw_setup.pkg) version unknown
 url: https://cloud.gastecnologia.com.br/bb/downloads/ws/warsaw_setup.pkg
+hash_sha256: 3aac6fa1c0c9742292903680ed30b9b5c1f3ec2285b8c0270d4d88bf4e4dbacc
 self_service: true
 labels_include_any: 
   - test1

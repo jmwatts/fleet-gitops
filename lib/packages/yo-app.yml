@@ -1,5 +1,6 @@
 # yo-app  (yo-2.0.1.pkg) version 2.0.1
 url: https://github.com/sheagcraig/yo/releases/download/2.0.1/yo-2.0.1.pkg
+hash_sha256: 115218ea1bf39e5aa301740d00a2b0e17a5f31c2bc2f4bff5becd2da77d791f7
 self_service: true
 labels_include_any: 
   - test1

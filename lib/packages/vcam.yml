@@ -1,5 +1,6 @@
 # vcam  (VCam_5.0.2.pkg) version 5.0.2
 url: https://installers.vcam.ai/VCam_5.0.2.pkg
+hash_sha256: f2366cd29c86413cd20015ba34e27dfce6810696be0f3541c0a625b6418829a2
 self_service: true
 labels_include_any: 
   - test1

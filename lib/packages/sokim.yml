@@ -1,5 +1,6 @@
 # sokim  (SokIM.pkg) version 1.2.0
 url: https://github.com/kiding/SokIM/releases/download/v1.2.0/SokIM.pkg
+hash_sha256: d729ed4c10ab565125de9b6856374091561519e3b35e32a2ecbb1a86958ede78
 self_service: true
 labels_include_any: 
   - test1

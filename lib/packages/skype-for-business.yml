@@ -1,5 +1,6 @@
 # skype-for-business  (SkypeForBusinessInstaller-16.31.0.11.pkg) version 16.31.0
 url: https://download.microsoft.com/download/D/0/5/D055DA17-C7B8-4257-89A1-78E7BBE3833F/SkypeForBusinessInstaller-16.31.0.11.pkg
+hash_sha256: 85770014696bc422dec96e6986186adf41c12d49f456366294ca1874f3a80834
 self_service: true
 labels_include_any: 
   - test1

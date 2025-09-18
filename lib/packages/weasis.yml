@@ -1,5 +1,6 @@
 # weasis  (Weasis-4.6.3-aarch64.pkg) version 4.6.3
 url: https://github.com/nroduit/Weasis/releases/download/v4.6.3/Weasis-4.6.3-aarch64.pkg
+hash_sha256: 8c70b495b72d605317be3cf51b3d40dc5db4310ef7cc9e684f392b072d0bb13d
 self_service: true
 labels_include_any: 
   - test1
